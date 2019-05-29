@@ -1,0 +1,32 @@
+body
+{
+  background:url('../images/gym.jpg') no-repeat center center fixed;
+    background-size: cover;
+    font-family: 'Courgette', cursive;
+}
+div
+{
+    background-color:#dd4814;
+    width:60%;
+    margin: 100px auto;
+    text-align:center;
+    border-radius: 25px;
+    opacity: 0.7;
+}
+button{
+    background: grey;
+    padding:20px;
+    color: white;
+    font-size: 2em;
+    border-radius: 10px;
+}
+h1{
+    font-size: 4em;
+}
+p
+{
+    font-size: 1.8em;
+}
+i{
+    color: white;
+}
